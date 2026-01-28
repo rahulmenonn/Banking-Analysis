@@ -1,6 +1,6 @@
 # Banking-Analysis
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on banking risk analytics by analyzing customer-level financial data to understand loan exposure, deposit strength, and risk concentration across different banking sectors. The solution combines Python-based exploratory data analysis (EDA) with interactive Power BI dashboards to support data-driven lending and liquidity decisions.
 
